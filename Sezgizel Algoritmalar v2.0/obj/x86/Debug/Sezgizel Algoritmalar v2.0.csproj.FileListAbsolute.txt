@@ -1,0 +1,47 @@
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\bin\Debug\Sezgizel Algoritmalar v2.0.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\bin\Debug\Sezgizel Algoritmalar v2.0.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.Properties.Resources.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.csproj.GenerateResource.Cache
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.Giriş.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.GenetikAlgoritma.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.TabuArama.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.TavlamaBenzetimi.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.csprojResolveAssemblyReference.cache
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\1 Projeler\Sezgisel Çalışmalarım\Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\1 Projeler\Sezgisel Çalışmalarım\Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\1 Projeler\1 Sezgisel Çalışmalarım\4 Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\1 Projeler\1 Sezgisel Çalışmalarım\4 Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\1 Projeler\1 Sezgisel Çalışmalarım\4 Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\bin\Debug\Sezgizel Algoritmalar v2.0.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\1 Projeler\1 Sezgisel Çalışmalarım\4 Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\bin\Debug\Sezgizel Algoritmalar v2.0.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\1 Projeler\1 Sezgisel Çalışmalarım\4 Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.csprojResolveAssemblyReference.cache
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\1 Projeler\1 Sezgisel Çalışmalarım\4 Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.GenetikAlgoritma.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\1 Projeler\1 Sezgisel Çalışmalarım\4 Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.Giriş.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\1 Projeler\1 Sezgisel Çalışmalarım\4 Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.Properties.Resources.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\1 Projeler\1 Sezgisel Çalışmalarım\4 Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.TabuArama.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\1 Projeler\1 Sezgisel Çalışmalarım\4 Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.TavlamaBenzetimi.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\1 Projeler\1 Sezgisel Çalışmalarım\4 Sezgizel Algoritmalar v2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.csproj.GenerateResource.Cache
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\1 Sezgisel Çalışmalarım\8 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.exe
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\1 Sezgisel Çalışmalarım\8 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.pdb
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\1 Sezgisel Çalışmalarım\8 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\bin\Debug\Sezgizel Algoritmalar v2.0.exe
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\1 Sezgisel Çalışmalarım\8 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\bin\Debug\Sezgizel Algoritmalar v2.0.pdb
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\1 Sezgisel Çalışmalarım\8 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.csprojResolveAssemblyReference.cache
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\1 Sezgisel Çalışmalarım\8 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.GenetikAlgoritma.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\1 Sezgisel Çalışmalarım\8 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.Giriş.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\1 Sezgisel Çalışmalarım\8 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.Properties.Resources.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\1 Sezgisel Çalışmalarım\8 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.TabuArama.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\1 Sezgisel Çalışmalarım\8 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.TavlamaBenzetimi.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\1 Sezgisel Çalışmalarım\8 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.csproj.GenerateResource.Cache
+I:\X\04 One Drive\03 Software\02 Github\06 C# Proje Depo\01 Sezgisel Projects\01 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\bin\Debug\Sezgizel Algoritmalar v2.0.exe
+I:\X\04 One Drive\03 Software\02 Github\06 C# Proje Depo\01 Sezgisel Projects\01 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\bin\Debug\Sezgizel Algoritmalar v2.0.pdb
+I:\X\04 One Drive\03 Software\02 Github\06 C# Proje Depo\01 Sezgisel Projects\01 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.csprojAssemblyReference.cache
+I:\X\04 One Drive\03 Software\02 Github\06 C# Proje Depo\01 Sezgisel Projects\01 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.GenetikAlgoritma.resources
+I:\X\04 One Drive\03 Software\02 Github\06 C# Proje Depo\01 Sezgisel Projects\01 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.Giriş.resources
+I:\X\04 One Drive\03 Software\02 Github\06 C# Proje Depo\01 Sezgisel Projects\01 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.Properties.Resources.resources
+I:\X\04 One Drive\03 Software\02 Github\06 C# Proje Depo\01 Sezgisel Projects\01 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.TabuArama.resources
+I:\X\04 One Drive\03 Software\02 Github\06 C# Proje Depo\01 Sezgisel Projects\01 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel_Algoritmalar_v2._0.TavlamaBenzetimi.resources
+I:\X\04 One Drive\03 Software\02 Github\06 C# Proje Depo\01 Sezgisel Projects\01 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.csproj.GenerateResource.cache
+I:\X\04 One Drive\03 Software\02 Github\06 C# Proje Depo\01 Sezgisel Projects\01 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.csproj.CoreCompileInputs.cache
+I:\X\04 One Drive\03 Software\02 Github\06 C# Proje Depo\01 Sezgisel Projects\01 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.exe
+I:\X\04 One Drive\03 Software\02 Github\06 C# Proje Depo\01 Sezgisel Projects\01 Sezgizel Algoritmalar V2.0\Sezgizel Algoritmalar v2.0\obj\x86\Debug\Sezgizel Algoritmalar v2.0.pdb
